@@ -360,12 +360,12 @@ PRODUCT_BOOT_JARS += \
     telephony-ext
 
 # Touch features
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.kuntao
+#PRODUCT_PACKAGES += \
+    #vendor.lineage.touch@1.0-service.kuntao
 
 # Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+#PRODUCT_PACKAGES += \
+    #vendor.lineage.trust@1.0-service
 
 # USB
 PRODUCT_PACKAGES += \
